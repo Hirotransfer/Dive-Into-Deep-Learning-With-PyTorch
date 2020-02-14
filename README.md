@@ -1,5 +1,5 @@
 # Dive-Into-Deep-Learning-With-PyTorch
-**动手学深度学习（PyTorch实现）**
+动手学深度学习（PyTorch实现）
 
 <div align=center>
 <img width="500" src="img/Dive-Into-Deep Learning-With-PyTorch.png" alt="Introduction-to-DL-PyTorch"/>
